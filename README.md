@@ -13,7 +13,7 @@ Key Highlight
 
 -- Connectivity between MSP-SG & MSP-QA via Peering Connection.
 
--- Deploy & congigure VPN Server (OpenVPN) on MSP-SG
+-- Deploy & configure VPN Server (OpenVPN) on MSP-SG
 
--- Testing with login on Jumbbox MSP-Client, MSP-Dev, MSP-QA & MSP-Production via MSP-SG Data center. 
+-- Testing with a login on Jumbbox MSP-Client, MSP-Dev, MSP-QA & MSP-Production via MSP-SG Datacenter
 
